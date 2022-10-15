@@ -1,0 +1,14 @@
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe.config
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\bin\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue Lotus.csprojResolveAssemblyReference.cache
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Properties.Resources.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue Lotus.csproj.GenerateResource.Cache
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Login.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Stock_Controller.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Admin.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\bin\Debug\BlueLotus.mdf
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\bin\Debug\BlueLotus_log.ldf
+C:\Users\Emal\Documents\ICBT\HND\WAD\Blue Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Buyer.resources

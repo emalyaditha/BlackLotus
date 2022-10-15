@@ -1,0 +1,38 @@
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe.config
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\bin\Debug\BlueLotus.mdf
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\bin\Debug\BlueLotus_log.ldf
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csprojResolveAssemblyReference.cache
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Admin.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Buyer.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Login.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Properties.Resources.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Stock_Controller.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csproj.GenerateResource.Cache
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe.config
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\BlueLotus.mdf
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\BlueLotus_log.ldf
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.pdb
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csprojResolveAssemblyReference.cache
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Admin.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Buyer.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Login.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Properties.Resources.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Stock_Controller.resources
+C:\Users\Emal\Documents\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csproj.GenerateResource.Cache
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\bin\Debug\Blue Lotus.exe.config
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.exe
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue Lotus.pdb
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csprojResolveAssemblyReference.cache
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Admin.resources
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Buyer.resources
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Login.resources
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Properties.Resources.resources
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Blue_Lotus.Stock_Controller.resources
+F:\ICBT\HND\WAD\CL.HND.CSE.90.34\Black Lotus\Blue Lotus\obj\Debug\Black Lotus.csproj.GenerateResource.Cache
